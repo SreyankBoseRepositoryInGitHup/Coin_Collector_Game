@@ -1,0 +1,10 @@
+﻿  Application.cpp
+C:\C++ Projects\Coin Collecter\Coin Collecter\Application.cpp(10,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\C++ Projects\Coin Collecter\Coin Collecter\Application.cpp(11,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\C++ Projects\Coin Collecter\Coin Collecter\Application.cpp(24,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\C++ Projects\Coin Collecter\Coin Collecter\Application.cpp(24,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\C++ Projects\Coin Collecter\Coin Collecter\Application.cpp(39,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\C++ Projects\Coin Collecter\Coin Collecter\Application.cpp(39,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\C++ Projects\Coin Collecter\Coin Collecter\Application.cpp(42,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\C++ Projects\Coin Collecter\Coin Collecter\Application.cpp(43,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Coin Collecter.vcxproj -> C:\C++ Projects\Coin Collecter\x64\Debug\Coin Collecter.exe
